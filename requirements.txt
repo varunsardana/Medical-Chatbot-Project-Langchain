@@ -7,5 +7,6 @@ langchain-pinecone==0.2.8
 langchain-openai==0.3.24
 langchain-community==0.3.26
 openai>=1.0.0
+pinecone-client>=4.0.0
 - e.
 
